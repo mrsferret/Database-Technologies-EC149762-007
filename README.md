@@ -1,9 +1,9 @@
 # Database Technologies
-The focus of this course was the proper design and implementation of the backend of a fullstack system. 
+The focus of this class was the proper design and implementation of the backend of a fullstack system. It's counterpart was the Web Technologies class as they shared the same endpoint. The Shopping Cart database designed and created in this class was implemented in the Web Technologies capstone project to create the fullstack Shopping Cart app 
 
-This included 
-- the ERD 
+In order to do this, it covered 
+- the Entity Relationship Diagram (ERD) 
 - data dictionary specification 
-- implementing the design into a relational system 
+- implementing the design into a relational database system 
 - accessing the relevant data using php code
-- management of the database through and effective tool is demonstrated and applied on the said data.  
+- management of the database using different tools  
