@@ -14,3 +14,5 @@ The class consisted of 2 parts:
 ## Part 1
 An introduction to the fundamentals of relational databases, how to start designing, building and implementing them using the fictional company [Fast Burgers Now](/FASTBURGERSNOW_DB_Solution). 
 
+[alt text]([FASTBURGERSNOW_DB_Solution/FBN%20MySQL%20tables%20screenshot.png)
+
