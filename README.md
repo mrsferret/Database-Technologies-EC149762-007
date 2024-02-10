@@ -16,4 +16,7 @@ An introduction to the fundamentals of relational databases, how to start design
 
 ![Screenshot](/FBN%20MySQL%20tables%20screenshot.png)
 
+## Part 2 
+Using and building on what was learned in Part 1, designed, built, managed and implemented the database for an online Shopping Cart app
+
 
